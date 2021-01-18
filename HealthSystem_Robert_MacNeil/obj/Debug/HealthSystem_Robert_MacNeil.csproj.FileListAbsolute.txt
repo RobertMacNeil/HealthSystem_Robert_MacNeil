@@ -1,0 +1,14 @@
+C:\Users\froze\source\repos\HealthSystem_Robert_MacNeil\HealthSystem_Robert_MacNeil\bin\Debug\HealthSystem_Robert_MacNeil.exe.config
+C:\Users\froze\source\repos\HealthSystem_Robert_MacNeil\HealthSystem_Robert_MacNeil\bin\Debug\HealthSystem_Robert_MacNeil.exe
+C:\Users\froze\source\repos\HealthSystem_Robert_MacNeil\HealthSystem_Robert_MacNeil\bin\Debug\HealthSystem_Robert_MacNeil.pdb
+C:\Users\froze\source\repos\HealthSystem_Robert_MacNeil\HealthSystem_Robert_MacNeil\obj\Debug\HealthSystem_Robert_MacNeil.csprojAssemblyReference.cache
+C:\Users\froze\source\repos\HealthSystem_Robert_MacNeil\HealthSystem_Robert_MacNeil\obj\Debug\HealthSystem_Robert_MacNeil.csproj.CoreCompileInputs.cache
+C:\Users\froze\source\repos\HealthSystem_Robert_MacNeil\HealthSystem_Robert_MacNeil\obj\Debug\HealthSystem_Robert_MacNeil.exe
+C:\Users\froze\source\repos\HealthSystem_Robert_MacNeil\HealthSystem_Robert_MacNeil\obj\Debug\HealthSystem_Robert_MacNeil.pdb
+C:\Users\froze\Desktop\IntroToOOP\HealthSystem_Robert_MacNeil\HealthSystem_Robert_MacNeil\bin\Debug\HealthSystem_Robert_MacNeil.exe.config
+C:\Users\froze\Desktop\IntroToOOP\HealthSystem_Robert_MacNeil\HealthSystem_Robert_MacNeil\bin\Debug\HealthSystem_Robert_MacNeil.exe
+C:\Users\froze\Desktop\IntroToOOP\HealthSystem_Robert_MacNeil\HealthSystem_Robert_MacNeil\bin\Debug\HealthSystem_Robert_MacNeil.pdb
+C:\Users\froze\Desktop\IntroToOOP\HealthSystem_Robert_MacNeil\HealthSystem_Robert_MacNeil\obj\Debug\HealthSystem_Robert_MacNeil.csprojAssemblyReference.cache
+C:\Users\froze\Desktop\IntroToOOP\HealthSystem_Robert_MacNeil\HealthSystem_Robert_MacNeil\obj\Debug\HealthSystem_Robert_MacNeil.csproj.CoreCompileInputs.cache
+C:\Users\froze\Desktop\IntroToOOP\HealthSystem_Robert_MacNeil\HealthSystem_Robert_MacNeil\obj\Debug\HealthSystem_Robert_MacNeil.exe
+C:\Users\froze\Desktop\IntroToOOP\HealthSystem_Robert_MacNeil\HealthSystem_Robert_MacNeil\obj\Debug\HealthSystem_Robert_MacNeil.pdb
